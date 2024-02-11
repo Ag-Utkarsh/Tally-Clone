@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.a7d6feca.js",
-    "index.html": "/index.html",
-    "main.a7d6feca.js.map": "/static/js/main.a7d6feca.js.map"
+    "main.js": "/Tally-Clone/static/js/main.a7d6feca.js",
+    "index.html": "/Tally-Clone/index.html",
+    "main.a7d6feca.js.map": "/Tally-Clone/static/js/main.a7d6feca.js.map"
   },
   "entrypoints": [
     "static/js/main.a7d6feca.js"
